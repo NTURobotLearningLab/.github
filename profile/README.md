@@ -1,3 +1,3 @@
 ## NTU Robot Learning Lab
 
-Robot Learning Lab @ National Taiwan University led by Prof. [Shao-Hua Sun](https://shaohua0116.github.io/)
+[NTU Robot Learning Lab](https://nturll.xyz/about) @ National Taiwan University is led by Prof. [Shao-Hua Sun](https://shaohua0116.github.io/).
